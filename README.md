@@ -1,2 +1,2 @@
-# MessagingApplication in Java and networking
+# MessagingApplication in Java and socket programming
 # MessagingApplication in Python
