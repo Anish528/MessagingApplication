@@ -91,7 +91,7 @@ class Client:
                print('Error')
                self.sock.close()
 
-               break
+              break
 
 client = Client(HOST,PORT)
 
