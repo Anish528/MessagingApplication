@@ -136,7 +136,7 @@ public class Client extends JFrame implements ActionListener{
                          }
                   }catch (Exception e){
                   }
-                
-	}
+	}        
+	
 	
 }
